@@ -56,6 +56,9 @@ Admissibility failures manifest as:
 
 The Atlas documents *how these failures appear*, not how to engineer around them.
 
+For epistemic positioning and interpretive scope, see
+[notes/philosophical-note.md](./notes/philosophical-note.md).
+
 ---
 
 ## Atlas Structure (Indicative)
